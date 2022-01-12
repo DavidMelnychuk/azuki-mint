@@ -4,6 +4,8 @@ CSV data pulled from the transactions of the Azuki contract on etherscan: https:
 
 ## TLDR
 
+Average Gas Price for successful transactions: 0.0499
+
 Total successful transactions: 2972
 
 Total ETH sent: 8746.0
@@ -20,7 +22,7 @@ Number of transactions that Reverted: 1965
 
 Total number of ETH that tried to Mint: 3703.0
 
-## Distribution of Mint Sizes: 
+## Distribution of Mint Sizes:
 
 ![](box-plot.png)
 ![](pie-chart.png)
